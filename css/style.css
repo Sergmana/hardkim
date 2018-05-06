@@ -11,17 +11,17 @@ body{
 
 }
 h1{
-  font-size: 5.11vw;
+  font-size: 60px;
 }
 h2{
-  font-size: 4vw;
+  font-size: 40px;
 }
 h3{
-  font-size: 2vw;
+  font-size: 30px;
 }
 
 p {
-	font-size: 1.5vw;
+	font-size: 20px;
 }
 #marketlist{
   font-size: 30px;
